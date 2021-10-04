@@ -20,3 +20,5 @@ const main3 = () => {
     console.log(mukti(3)(4));
 }
 const sub = x => y => x / y;
+
+const sub2 = x => y => x / y;
