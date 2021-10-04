@@ -42,3 +42,4 @@ const sub7 = x => y => x / y;
 const sub8 = x => y => x / y;
 
 const sub9 = x => y => x / y;
+const sub10 = x => y => x / y;
