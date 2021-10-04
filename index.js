@@ -14,3 +14,8 @@ const main2 = () => {
     console.log(add(3)(4));
     console.log(mukti(3)(4));
 }
+
+const main3 = () => {
+    console.log(add(3)(4));
+    console.log(mukti(3)(4));
+}
