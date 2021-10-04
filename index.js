@@ -37,9 +37,8 @@ const sub4 = x => y => x / y;
 
 const sub5 = x => y => x / y;
 
-<<<<<<< HEAD
 const sub7 = x => y => x / y;
 
-=======
 const sub8 = x => y => x / y;
->>>>>>> update sub 8
+
+const sub9 = x => y => x / y;
