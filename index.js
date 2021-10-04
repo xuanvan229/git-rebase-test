@@ -36,3 +36,6 @@ const sub6 = x => y => x / y;
 const sub4 = x => y => x / y;
 
 const sub5 = x => y => x / y;
+
+const sub7 = x => y => x / y;
+
