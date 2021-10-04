@@ -23,11 +23,12 @@ const sub = x => y => x / y;
 
 const sub2 = x => y => x / y;
 
-<<<<<<< HEAD
 const main4 = () => {
     console.log(add(3)(4));
     console.log(mukti(3)(4));
 }
-=======
+
 const sub3 = x => y => x / y;
->>>>>>> update sub 3
+
+
+const sub6 = x => y => x / y;
