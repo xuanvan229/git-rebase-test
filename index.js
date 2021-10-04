@@ -30,3 +30,5 @@ const main4 = () => {
 const sub3 = x => y => x / y;
 
 const sub4 = x => y => x / y;
+
+const sub5 = x => y => x / y;
